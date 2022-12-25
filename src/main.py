@@ -33,7 +33,7 @@ async def load():
 async def main():
     async with client:
         await load()
-        await client.start("MTA1NTUwOTM5NTc3NTE2NDQ0Ng.GK3IHd.jJAhiAW3TcYen-p14r7NimdN6XrZkMCyMnvG4M")
+        await client.start("YOURTOKENHERE")
 
 # Starts running the variable, main
 asyncio.run(main())
