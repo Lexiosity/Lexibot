@@ -18,7 +18,7 @@ class About(commands.Cog):
         embed1=discord.Embed(title="About LinkBot", color=discord.Color.dark_green())
         embed1.set_thumbnail(url=self.client.user.avatar)
         embed1.add_field(name="What is LinkBot", value=f"I am a bot specifically designed for {ctx.guild.name}. I can do fun things, like be a magic 8ball with !8ball. I can also tell you my latency! I am also able to help with moderation!", inline=False)
-        embed1.add_field(name="How is LinkBot made?", value="I was made with python, using Discord.py! I was also created by LinkexaHy. My source code will be found at <no-url-specified>.")
+        embed1.add_field(name="How is LinkBot made?", value="I was made with python, using Discord.py! I was also created by LinkexaHy. My source code will be found at [LinkBot](https://github.com/LinkexaHy/LinkBot/releases/).")
         embed1.set_footer(text=f"Requested by {ctx.author.name}", icon_url=ctx.author.avatar)
         
         await ctx.send(embed=embed1)
