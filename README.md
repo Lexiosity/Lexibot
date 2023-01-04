@@ -4,7 +4,7 @@
 
 ### What is LinkBot?
 
-🌲 LinkBot is a bot specifically designed for Linkexa's White Forest. It can do fun things, like be a magic 8ball with !8ball. It can also tell you the bot latency! It is also able to help with moderation! 🌲
+🌲 LinkBot is a bot mainly designed for Linkexa's server, Linkexa's Forest. However, it can be used for your servers, too! But if you do use it, make sure to give credit to Linkexa, including her socials. If you are also going to modify the files, make sure to give credit in your bots that you made from my files. Now let's mention what I can do! I can do fun things, like be a magic 8ball with !8ball. I can also tell you my bot latency! I can help moderate your servers, by providing you commands that can make things easier for you! If you want to change my prefix on your server, just run lk!prefix 🌲
 
 ### How is LinkBot made?
 
