@@ -4,7 +4,7 @@
 
 ### What is LexiBot?
 
-🌲 LexiBot is a bot mainly designed for Lexiosity's server, Lexious Hangout. However, it can be used for your servers, too! But if you do use it, make sure to give credit to Lexiosity, including her socials. If you are also going to modify the files, make sure to give credit in your bots that you made from my files. Now let's mention what I can do! I can do fun things, like be a magic 8ball with !8ball. I can also tell you my bot latency! I can help moderate your servers, by providing you commands that can make things easier for you! If you want to change my prefix on your server, just run lb!setprefix 💜
+💜 LexiBot is a bot mainly designed for Lexiosity's server, Lexious Hangout. However, it can be used for your servers, too! But if you do use it, make sure to give credit to Lexiosity, including her socials. If you are also going to modify the files, make sure to give credit in your bots that you made from my files. Now let's mention what I can do! I can do fun things, like be a magic 8ball with !8ball. I can also tell you my bot latency! I can help moderate your servers, by providing you commands that can make things easier for you! If you want to change my prefix on your server, just run lb!setprefix 💜
 
 ### How is LexiBot made?
 
